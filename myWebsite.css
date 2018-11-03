@@ -21,23 +21,6 @@ div#welcomePage.jumbotron{
   height: 60px;
   background-color: white;
 }
-/* button.btn.btn-default{
-  position: relative;
-  float: right;
-  top: -25px;
-  padding: 20px 20px;
-  border-color: lightblue;
-  margin-right: 50px;
-  font-family: 'Lato', sans-serif;
-} */
-
-/* h1#name{
-  position: absolute;
-  top: 15px;
-  font-family: 'Roboto', sans-serif;
-  font-size: 30px;
-  font-weight: bold;
-} */
 div.mainContent{
   margin: 10% auto;
   margin-left: 100px;
@@ -53,7 +36,6 @@ div.mainContent{
 a#meImg.thumbnail{
   margin-top: 80%;
   margin-left: 55px;
-  /* float: left; */
   width: 170px;
   height: auto;
 }
@@ -97,7 +79,7 @@ button.btn.btn-success{
 }
 body.skillPage{
   background-image: url("coding.jpg");
-  background-size: cover;
+  background-size: 100%;
 }
 
 div.mainSkills.col-lg-11{
