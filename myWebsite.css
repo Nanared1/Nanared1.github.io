@@ -148,7 +148,8 @@ div#gridProjects{
 div#skills_P,
 div#compEng_P,
 div#website_P,
-div#github_P{
+div#github_P,
+div#yelp_P{
   margin-top: 10px;
   margin-left: 80px;
   color: white;
